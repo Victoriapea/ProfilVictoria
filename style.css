@@ -90,3 +90,39 @@ span {
 .images:hover .deux {
     left: 45%;
 }
+
+#button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 7.5px;
+    background-color: #F9F5F6;
+    box-shadow:  0 0 16px rgba(0,0,0,0.2);
+    border-color: #F2D8D8;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    margin-right: 10px;
+    float: right;
+}
+
+/*section 3*/
+
+.card {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+    background-image: url(Images/sky2.jpg);
+    background-size: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 16px rgba(0,0,0,0.5);
+    padding: 20px 10px;
+    margin: 20px 30px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
