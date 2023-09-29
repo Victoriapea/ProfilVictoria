@@ -108,7 +108,7 @@ span {
     height: 100px;
     text-align: center;
     display: inline-block;
-    background-image: url(Images/sky2.jpg);
+    background-image: url(sky2.jpg);
     background-size: 200px;
     border-radius: 50%;
     box-shadow: 0 0 16px rgba(0,0,0,0.5);
